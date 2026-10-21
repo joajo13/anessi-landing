@@ -17,3 +17,11 @@ Photorealistic editorial portrait cutout of a fictional Argentine master precisi
 ## `dist/assets/torno.png`
 
 Landscape wide cinematic macro editorial photograph for a premium Argentine precision turning workshop website. A small stainless steel workpiece held in the chuck of an authentic traditional metal lathe, cutting tool nearby, delicate curled metal shavings, beautiful circular machining lines, no sparks, no human. Tight crop showing material detail and craftsmanship, shallow depth of field, foreground machined cylinder sharp, background workshop defocused and dark. Soft natural window light from upper left, graphite and silver palette, subtle warm undertones. Premium tactile photographic realism, not futuristic, no text, no logos, no overlaid graphics. Wide 3:2 composition.
+
+## Imágenes institucionales de empresas
+
+Estas fotografías no se generaron con IA y no documentan trabajos de Anessi. Se incorporan como contexto de las fichas con fuente visible. Los derechos corresponden a sus titulares.
+
+- `dist/assets/companies/sidersa.png`: imagen de la sección Empresa del [sitio oficial de Sidersa](https://sidersa.com/). Origen: https://sidersa.com/uploads/secciones_subcomponentes/imagen_2y_10_2fqnfrifrrcaulyfvj_xausfjodu0imeiiwdass5zhxn8k9v_okry/secciones_galeria_es/0001_00_02_EMPRESA.png
+- `dist/assets/companies/ternium.jpg`: cabecera de [Nuestra empresa · Ternium Argentina](https://ar.ternium.com/es/nuestra-empresa). Origen: https://ar.ternium.com/media/awsj41db/ah14-2.jpg?v=1d54eed25546040
+- La ficha Siderar usa la imagen de Ternium y la identifica así; no se presenta como una foto histórica. La relación histórica se cita a la [presentación institucional de Ternium](https://co.ternium.com/media/zisn0b0k/ppt_inst_ternium_espan-ol.pdf).
